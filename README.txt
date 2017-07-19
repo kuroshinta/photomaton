@@ -1,6 +1,6 @@
 comment qu'on installe ?
 c'est easy !
-git clone https://github.com/kuroshinta/photo.git
+git clone https://github.com/kuroshinta/photomaton.git
 
 les truc à installer :
 * sudo apt-get install graphicsmagick
